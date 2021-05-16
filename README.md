@@ -7,7 +7,7 @@ Computer Science Portfolio
 * Graphed the distribution of the data gathered in order compare each stock individually.
 * Used pandas to store, extract and modify data
 
-# Project 2: Yahoo Finance Web Scraper
+# [Project 2: Yahoo Finance Web Scraper](https://github.com/rontik2002/Yahoo_Finance_Webscraper.git)
 * Scraped the Yahoo Finance and MarketWatch websites using python and selenium 
 * Extracts the stock price, currency, company description and financial statements of any company desired by the user
 * Created a concise financial statement table, which is readable and informative
