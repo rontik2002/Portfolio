@@ -1,12 +1,12 @@
 # Ronit Portfolio
 
 # [Project 1: Dollar Neutral Portfolio](https://github.com/rontik2002/Dollar_Neutral_Portfolio.git)
-<img src="https://github.com/rontik2002/Ronit_Portfolio/blob/main/images/Final%20Portfolio.JPG" alt="drawing" width="600"/>
-
 * Created an algorithm to produce a Dollar Nuetral Portfolio using Beta, Stock Price (1 Yr) and Price to Book ratio.
 * Scraped data for all 500 stocks in the S&P 500 using Python and Selenium.
 * Graphed the distribution of the data gathered in order compare each stock individually.
 * Used pandas to store, extract and modify data
+
+<img src="https://github.com/rontik2002/Ronit_Portfolio/blob/main/images/Final%20Portfolio.JPG" alt="drawing" width="300"/>
 
 # [Project 2: Yahoo Finance Web Scraper](https://github.com/rontik2002/Yahoo_Finance_Webscraper.git)
 ![alt text](https://github.com/rontik2002/Ronit_Portfolio/blob/main/images/download.png)
