@@ -1,4 +1,4 @@
-# Ronit_Portfolio
+# Ronit Portfolio
 Computer Science Portfolio
 
 # [Project 1: Dollar Neutral Portfolio](https://github.com/rontik2002/Dollar_Neutral_Portfolio.git)
