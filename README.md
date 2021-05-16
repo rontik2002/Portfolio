@@ -8,7 +8,7 @@
 * Used pandas to store, extract and modify data
 
 # [Project 2: Yahoo Finance Web Scraper](https://github.com/rontik2002/Yahoo_Finance_Webscraper.git)
-![alt text](google.png)
+![alt text](https://github.com/rontik2002/Ronit_Portfolio/blob/main/images/download.png)
 * Scraped the Yahoo Finance and MarketWatch websites using python and selenium 
 * Extracts the stock price, currency, company description and financial statements of any company desired by the user
 * Created a concise financial statement table, which is readable and informative
