@@ -1,6 +1,7 @@
 # Ronit Portfolio
 
 # [Project 1: Dollar Neutral Portfolio](https://github.com/rontik2002/Dollar_Neutral_Portfolio.git)
+<img src="https://github.com/rontik2002/Ronit_Portfolio/blob/main/images/Final%20Portfolio.JPG" alt="drawing" width="200"/>
 ![](https://github.com/rontik2002/Ronit_Portfolio/blob/main/images/Final%20Portfolio.JPG)
 * Created an algorithm to produce a Dollar Nuetral Portfolio using Beta, Stock Price (1 Yr) and Price to Book ratio.
 * Scraped data for all 500 stocks in the S&P 500 using Python and Selenium.
