@@ -1,5 +1,4 @@
 # Ronit Portfolio
-Computer Science Portfolio
 
 # [Project 1: Dollar Neutral Portfolio](https://github.com/rontik2002/Dollar_Neutral_Portfolio.git)
 * Created an algorithm to produce a Dollar Nuetral Portfolio using Beta, Stock Price (1 Yr) and Price to Book ratio.
