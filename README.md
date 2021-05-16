@@ -6,7 +6,7 @@
 * Graphed the distribution of the data gathered in order compare each stock individually.
 * Used pandas to store, extract and modify data
 
-<img src="https://github.com/rontik2002/Ronit_Portfolio/blob/main/images/Final%20Portfolio.JPG" alt="drawing" width="350"/>
+<img src="images/Final Portfolio.JPG" alt="drawing" width="350"/>
 
 # [Project 2: Yahoo Finance Web Scraper](https://github.com/rontik2002/Yahoo_Finance_Webscraper.git)
 * Scraped the Yahoo Finance and MarketWatch websites using python and selenium 
