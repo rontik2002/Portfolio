@@ -14,12 +14,14 @@
 * Created a concise financial statement table, which is readable and informative
 * Produced the financial information in an extractable format for excel users. 
 
-<img src="https://github.com/rontik2002/Ronit_Portfolio/blob/main/images/download.png" alt="drawing" width="350"/>
+<img src="https://github.com/rontik2002/Ronit_Portfolio/blob/main/images/google.JPG" alt="drawing" width="350"/>
+
 
 # [Project 3: Data Analysis Workshop](https://github.com/rontik2002/Data_Analysis_Workshop.git)
-* Presented a data analysis workshops to undergraduate students
+* Presented a data analysis workshop to undergraduate students
 * Backtested a 50 day moving average strategy for a particular stock
 * Demonstrated the cumulative profits made on a time-series chart using python and matplotlib
 
-<img src="https://github.com/rontik2002/Ronit_Portfolio/blob/main/images/google.JPG" alt="drawing" width="350"/>
+<img src="https://github.com/rontik2002/Ronit_Portfolio/blob/main/images/download.png" alt="drawing" width="350"/>
+
 
