@@ -15,7 +15,7 @@
 * Produced the financial information in an extractable format for excel users. 
 
 # [Project 3: Data Analysis Workshop](https://github.com/rontik2002/Data_Analysis_Workshop.git)
-![alt text](download.jpg)
+![alt text](https://github.com/rontik2002/Ronit_Portfolio/blob/main/images/google.JPG)
 * Presented a data analysis workshops to undergraduate students
 * Backtested a 50 day moving average strategy for a particular stock
 * Demonstrated the cumulative profits made on a time-series chart using python and matplotlib
