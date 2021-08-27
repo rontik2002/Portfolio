@@ -9,7 +9,7 @@
 * Predicted ≈75% of all underperforming  of companies in the S&P 500 between AUG 2016 - AUG 2021
 * Ensured an 80%+ hit rate on Above 400% prediction to outperform the market (100%+ returns) between AUG 2016 - AUG 2021
 * Assesed the financial standing of the S&P 500 components and created a list of stocks expected to underperform, and beat the market over the next 5 years. Click 
-[here](https://github.com/rontik2002/Stock_Market_Analysis_Machine_Learning/countOfPredictedValues.xlsx) to see the excel sheet for the predictions in the S&P 500, and [here](https://github.com/rontik2002/Stock_Market_Analysis_Machine_Learning/countOfPredictedValuesIndia.xlsx) for predictions in the S&P BSE 500.
+[here](https://github.com/rontik2002/Stock_Market_Analysis_Machine_Learning/blob/main/countOfPredictedValues.xlsx) to see the excel sheet for the predictions in the S&P 500, and [here](https://github.com/rontik2002/Stock_Market_Analysis_Machine_Learning/blob/main/countOfPredictedValuesIndia.xlsx) for predictions in the S&P BSE 500.
 
 ## [Project 2: Dollar Neutral Portfolio](https://github.com/rontik2002/Dollar_Neutral_Portfolio.git)
 * Created an algorithm to produce a Dollar Nuetral Portfolio using Beta, Stock Price (1 Yr) and Price to Book ratio.
