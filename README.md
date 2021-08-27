@@ -35,6 +35,10 @@
 * Backtested a 50 day moving average strategy for a particular stock
 * Demonstrated the cumulative profits made on a time-series chart using python and matplotlib
 
-<img src="images/download.png" alt="drawing" width="350"/>
+<img src="images/download(1).png" alt="drawing" width="350"/>
+
+<img src="images/download(2).png" alt="drawing" width="350"/>
+
+<img src="images/download(3).png" alt="drawing" width="350"/>
 
 
