@@ -2,7 +2,7 @@
 ## [Project 1: Market Analysis using Machine Learning](https://github.com/rontik2002/Stock_Market_Analysis_Machine_Learning.git)
 ### Algorithm Description
 * Using 5000 nodes in RandomForest Decision Trees to predict the return of a price of the stock over the next five years (UNDERPERFORM, ABOVE 100%, ABOVE 200%, ABOVE 300% and  ABOVE 400%)
-* Using 6 input variables measuring earnings, debt, assets and industry. 
+* Making a prediction with 6 unique input variables (ratios and growth values) measuring earnings, debt, assets and industry. 
 
 ### Results
 * Provided a ≈45% hit rate on the predicted return of all stocks in the S&P 500 between AUG 2016 - AUG 2021
