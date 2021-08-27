@@ -21,7 +21,19 @@
 
 <img src="images/Final Portfolio.JPG" alt="drawing" width="550"/>
 
-## [Project 3: Yahoo Finance Web Scraper](https://github.com/rontik2002/Yahoo_Finance_Webscraper.git)
+## [Project 3: Data Analysis Workshop](https://github.com/rontik2002/Data_Analysis_Workshop.git)
+* Presented a python focused data analysis workshop on how to backtest a specific trading strategy using pandas and matplotlib to 35+ undergraduate students.
+* Backtested a 50 day moving average strategy for Apple stock and demonstrated the cumulative profits made on a time-series chart.
+* Created a correlation table to show how certain attributes in price-movement (Volume, Adjusted Close, Close, Low, High) affect each other.
+
+<img src="images/download (1).png" alt="drawing" width="350"/>
+
+<img src="images/download (2).png" alt="drawing" width="350"/>
+
+<img src="images/download (3).png" alt="drawing" width="350"/>
+
+
+## [Project 4: Yahoo Finance Web Scraper](https://github.com/rontik2002/Yahoo_Finance_Webscraper.git)
 * Scraped the Yahoo Finance and MarketWatch websites using python and selenium 
 * Extracts the stock price, currency, company description and financial statements of any company desired by the user
 * Created a concise financial statement table, which is readable and informative
@@ -30,15 +42,5 @@
 <img src="images/google.JPG" alt="drawing" width="550"/>
 
 
-## [Project 4: Data Analysis Workshop](https://github.com/rontik2002/Data_Analysis_Workshop.git)
-* Presented a data analysis workshop to undergraduate students
-* Backtested a 50 day moving average strategy for a particular stock
-* Demonstrated the cumulative profits made on a time-series chart using python and matplotlib
-
-<img src="images/download (1).png" alt="drawing" width="350"/>
-
-<img src="images/download (2).png" alt="drawing" width="350"/>
-
-<img src="images/download (3).png" alt="drawing" width="350"/>
 
 
