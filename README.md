@@ -1,4 +1,4 @@
-# Ronit Portfolio
+# Ronit Kothari Computer Science and Finance Portfolio
 ## [Project 1: Market Analysis using Machine Learning](https://github.com/rontik2002/Stock_Market_Analysis_Machine_Learning.git)
 ### Algorithm Description
 * Using 5000 nodes in RandomForest Decision Trees to predict the return of a price of the stock over the next five years (UNDERPERFORM, ABOVE 100%, ABOVE 200%, ABOVE 300% and  ABOVE 400%)
