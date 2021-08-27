@@ -19,7 +19,7 @@
 * Graphed the distribution of beta and price to book ratio to identify Gaussian distribution and derive the individual z-scores for each security. 
 * Used pandas to weigh the z-scores to create a list of 18 stocks, each differently weighted, and equal investments in Long and Short positions.
 
-<img src="images/Final Portfolio.JPG" alt="drawing" width="350"/>
+<img src="images/Final Portfolio.JPG" alt="drawing" width="550"/>
 
 ## [Project 3: Yahoo Finance Web Scraper](https://github.com/rontik2002/Yahoo_Finance_Webscraper.git)
 * Scraped the Yahoo Finance and MarketWatch websites using python and selenium 
@@ -27,7 +27,7 @@
 * Created a concise financial statement table, which is readable and informative
 * Produced the financial information in an extractable format for excel users. 
 
-<img src="images/google.JPG" alt="drawing" width="350"/>
+<img src="images/google.JPG" alt="drawing" width="550"/>
 
 
 ## [Project 4: Data Analysis Workshop](https://github.com/rontik2002/Data_Analysis_Workshop.git)
