@@ -12,7 +12,7 @@
 [here](https://github.com/rontik2002/Stock_Market_Analysis_Machine_Learning/blob/main/countOfPredictedValues.xlsx) to see the excel sheet for the predictions in the S&P 500, and [here](https://github.com/rontik2002/Stock_Market_Analysis_Machine_Learning/blob/main/countOfPredictedValuesIndia.xlsx) for predictions in the S&P BSE 500.
 
 ## [Project 2: Dollar Neutral Portfolio](https://github.com/rontik2002/Dollar_Neutral_Portfolio.git)
-* Created an algorithm to produce a Dollar Nuetral Portfolio using Beta, Stock Price (1 Yr) and Price to Book ratio.
+* Created an algorithm to produce a Dollar Neutral Portfolio using Beta, Stock Price (1 Yr) and Price to Book ratio.
   * A Dollar Nuetral Portfolio is a portfolio management concept, in which there is equal investment in long and short positions based on price volatility of a security.
   * According to "The Street View - How Design Choices Impact Low Factor Risk Performance" by TwoSigma, the Dollar Nuetral Portfolio would outperform all other portfolios in a situation similar to that of the March 2020 stock market crash. 
 * Scraped data for all stocks in the S&P 500 using Python and Selenium.
